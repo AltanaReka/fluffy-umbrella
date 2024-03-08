@@ -41,5 +41,5 @@ public class RandomSent {
 		} return true;
 	}
 	
-
+boolean check = true; 
 }
